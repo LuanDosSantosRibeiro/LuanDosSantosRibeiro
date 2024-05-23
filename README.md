@@ -1,6 +1,6 @@
 ###  Boas vindas ao meu perfil 😐
 
-Meu meu é Luan
+Meu nome é Luan
 
 - Estou estudando na [Alura](https://www.alura.com.br/);
 - Estou me desenvolvendo na linguagem de javascript;
